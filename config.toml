@@ -2,3 +2,5 @@ baseURL = 'http://aurabit.github.io/TLmain/'
 languageCode = 'en-us'
 title = 'Twin Ludens'
 theme = 'LoveIt'
+[author]
+  name = "TL"
